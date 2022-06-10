@@ -1,0 +1,8 @@
+div {
+  border : 4mm solid blue;
+  border-radius: 25px;
+  margin: auto;
+  width: 500px;
+  vertical-align: middle;  
+  background-color: grey;
+}
